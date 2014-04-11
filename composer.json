@@ -1,0 +1,24 @@
+{
+    "name": "mbryne/slim-idiorm-skeleton",
+    "description": "Slim Framework & Idiorm / Paris Skeleton",
+    "autoload": {
+        "psr-0": {
+            "app": "./"
+        }
+    },
+    "require": {
+        "slim/slim": "2.*",
+        "j4mie/paris": "1.4.*"
+    },
+    "authors": [
+        {
+            "name": "Michael Bryne",
+            "email": "mbryne@gmail.com"
+        }
+    ],
+    "config": {
+           "vendor-dir": "vendor"
+    },
+    "minimum-stability": "beta"
+}
+
