@@ -2,9 +2,9 @@
 $config = array(
 	
 	'database' => array( 
-		'host' => 'localhost',
+		'server' => 'localhost',
 		'name' => 'testing',
-		'host' => 'root',
+		'username' => 'root',
 		'password' => '',
 	),
 	
